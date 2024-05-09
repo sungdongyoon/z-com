@@ -1,9 +1,7 @@
-import Image from "next/image";
-
 export default function Messages() {
   return (
     <main>
-      <h1>Messages</h1>
+      <h1>검색페이지</h1>
     </main>
   );
 }
