@@ -1,7 +1,5 @@
-export default function Tweet() {
-  return (
-    <main>
-      <h1>Tweet</h1>
-    </main>
-  );
+import Home from '@/app/(afterLogin)/home/page';
+
+export default function Page() {
+  return <Home />;
 }
